@@ -1,4 +1,8 @@
 <?php
+	$title = "Xyz";
+?>
+
+<?php
 	include("header.php");
 ?>
 	<!--<section class="slider">
@@ -38,14 +42,14 @@
 		<div class="container">
 			<div class="row align-items-center">
 				<div class="col-lg-12 col-md-12">
-					<h2 style="font-weight: 900" class="call-to-action-content mb-4 mb-md-0">Top Virtual Employee</h2>
-					<p style="margin-top: 30px;font-size: 18px;font-weight: 700;">
-						We here at Top Virtual Employee provide you the best internet based<br> services that can provide your business a huge hike which can turn<br> out to be highly profitable for your business.
+					<h2 style="font-weight: 900;text-align: left;" class="call-to-action-content mb-4 mb-md-0">EXCELLENT POTENTIAL REPRESENTATIVES</h2>
+					<p style="margin-top: 30px;font-size: 18px;font-weight: 700;text-align: left;">
+						We XYZ assist you the top and the best web-based technologies services that can climb your industries top level which can change to be cost-effective for your business or organizations.
 					</p>
 				</div>
 				<div class="col-lg-2 col-md-3">
-					<div class="call-to-action-btn text-md-right text-center">
-						<a class="btn btn-dark" href="#">CONTACT US</a>
+					<div class="call-to-action-btn text-left ">
+						<a class="btn btn-dark" href="index.php#contact">CONTACT US</a>
 					</div>
 				</div>
 			</div>
@@ -54,24 +58,24 @@
 	<!--# banner-->
 
 	<!--3 column section-->
-	<section class="blog s-padding" id="blog">
+	<section class="blog s-padding" id="">
 		<div class="container">
 			<div class="row">
 				<div class="section-title">
-					<h2>WHY TOP VIRTUAL EMPLOYEE?</h2>
-					<p>The reason why we are on the top is that we provide the finest work for the specialists and individual, knowledge and development of our strategic representatives.</p>
+					<h2>WHY WE?</h2>
+					<p>The inspiration behind why we are on the best is that we give the best work to the individual, data, and improvement of our essential specialists.</p>
 				</div>
 				<div class="masonry-wrapper w-100 gutter-bottom-30">
 					<div class="grid-sizer col-lg-4 col-md-6"></div>
 					<div class="masonry-item col-lg-4 col-md-6">
 						<article class="blog-post">
 							<div class="blog-post-thumb">
-								<a href="#"><img src="assets/images/blog1a.jpg" alt=""></a>
+								<img src="assets/images/blog1a.jpg" alt="">
 							</div>
 							<div class="blog-post-des">
 								<h3 class="post-title">RICH PORTFOLIO OF SERVICES</h3>
 								<div class="blog-post-content">
-									<p>Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Curabitur non nulla sit amet nisl tempus convallis quis.</p>
+									<p>XYZ offers large-scale plans of services thus you would have to able to analyze your capacities, proficiency, and training.</p>
 								</div>
 								
 							</div>
@@ -80,12 +84,12 @@
 					<div class="masonry-item col-lg-4 col-md-6">
 						<article class="blog-post">
 							<div class="blog-post-thumb">
-								<a href="#"><img src="assets/images/blog2.jpg" alt=""></a>
+								<img src="assets/images/blog2.jpg" alt="">
 							</div>
 							<div class="blog-post-des">
 								<h3 class="post-title">PROFESSION<br> CHANCES</h3>
 								<div class="blog-post-content">
-									<p>Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Curabitur non nulla sit amet nisl tempus convallis quis.</p>
+									<p>We assist you to the top level of work and services free accessing for our expertise, particular and proficiency development rising voice of the people.</p>
 								</div>
 								
 							</div>
@@ -94,12 +98,12 @@
 					<div class="masonry-item col-lg-4 col-md-6">
 						<article class="blog-post">
 							<div class="blog-post-thumb">
-								<a href="#"><img src="assets/images/blog3a.jpg" alt=""></a>
+								<img src="assets/images/blog3a.jpg" alt="">
 							</div>
 							<div class="blog-post-des">
 								<h3 class="post-title">WORK WITH INTERNATIONAL CLIENTS</h3>
 								<div class="blog-post-content">
-									<p>Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Curabitur non nulla sit amet nisl tempus convallis quis.</p>
+									<p>In the development that you are looking for an extensive demonstration, XYZ is the correct and the best services provide for top-rated customers./p>
 								</div>
 								
 							</div>
@@ -111,12 +115,12 @@
 	</section>
 	<!--# 3 column section-->
 
-	<section class="service s-padding bg-secondry" id="service">
+	<section class="service s-padding bg-secondry" id="service" style="padding-bottom: 5px;">
 		<div class="container">
 			<div class="row">
 				<div class="section-title">
-					<h2>THE Top Virtual Employee ADVANTAGE</h2>
-					<p>We are not simply employers; we always work with you to guarantee you create as a total proficient. We additionally offer an a lot of extent of representative commitment and sort out year-round exercises, for example, cricket and soccer matches, yoga sessions, talent hunts, and so forth to keep our worker spurred and cheerful.</p>
+					<h2>XYZ Advantages</h2>
+					<p>We are not commonly assistants; we consistently work with you to certainty you to create as perfect knowledge. We also proposal lot of assistant and deal with all year work bound, for an explanation, cricket and soccer matches, yoga sessions, ability chases, etc. keep our specialist prompt and brilliant.</p>
 				</div>
 				<div class="col-md-6 col-lg-6">
 					<div class="service-item">
@@ -128,7 +132,7 @@
 								<h4>LEARNING OPPORTUNITIES</h4>
 							</div>
 						</div>
-						<p>Lorem ipsum dolor sit amet, consectetur scing elit. Proin eget tortor risus. Donec rutrum congue leo eget malesuada porttitor volutpat.</p>
+						<p>When working with us you can grasp the various types of tools and devices for developed the new technologies which are used in our organization.</p>
 					</div>
 				</div>
 				<div class="col-md-6 col-lg-6">
@@ -141,7 +145,7 @@
 								<h4>INTERNATIONAL EXPOSURE</h4>
 							</div>
 						</div>
-						<p>Lorem ipsum dolor sit amet, consectetur scing elit. Proin eget tortor risus. Donec rutrum congue leo eget malesuada porttitor volutpat.</p>
+						<p>We have clients from all over the nation. So, you can get the best opportunity to enhance your work with the all over nation clients in various platforms.</p>
 					</div>
 				</div>
 				<div class="col-md-6 col-lg-6">
@@ -154,7 +158,7 @@
 								<h4>WORK-LIFE BALANCE</h4>
 							</div>
 						</div>
-						<p>Lorem ipsum dolor sit amet, consectetur scing elit. Proin eget tortor risus. Donec rutrum congue leo eget malesuada porttitor volutpat.</p>
+						<p>We understand the meaning of work-life how to adjust in the business-goal. Our lifestyle enterprises to keep up a distance between your own basic and experienced life.</p>
 					</div>
 				</div>
 				<div class="col-md-6 col-lg-6">
@@ -167,136 +171,37 @@
 								<h4>WIDE DOMAIN EXPERIENCE</h4>
 							</div>
 						</div>
-						<p>Lorem ipsum dolor sit amet, consectetur scing elit. Proin eget tortor risus. Donec rutrum congue leo eget malesuada porttitor volutpat.</p>
+						<p>XYZ has a limit in various areas in 100+, from IT, Internet Marketing, Graphic Design and Application Development to Data Entry and Financial Processes. There are fruitful calling decisions in the context of your extent of limits and experience.</p>
 					</div>
 				</div>
 			</div>
 		</div>
 	</section>
 
-	<!--# Four Column Section-->
-
-	<!--<section class="service s-padding bg-secondry" id="service">
-		<div class="container">
-			<div class="row">
-				<div class="section-title">
-					<h2>Service We Offer</h2>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, Vestibulum ante<br> primis in faucibus orci luctus et ultrices</p>
-				</div>
-				<div class="col-md-6 col-lg-4">
-					<div class="service-item">
-						<div class="service-name">
-							<div class="service-icon">
-								<i class="ion-gear-a"></i>
-							</div>
-							<div class="service-title">
-								<h4>Flexible Solutions</h4>
-							</div>
-						</div>
-						<p>Lorem ipsum dolor sit amet, consectetur scing elit. Proin eget tortor risus. Donec rutrum congue leo eget malesuada porttitor volutpat.</p>
-					</div>
-				</div>
-				<div class="col-md-6 col-lg-4">
-					<div class="service-item">
-						<div class="service-name">
-							<div class="service-icon">
-								<i class="ion-monitor"></i>
-							</div>
-							<div class="service-title">
-								<h4>Creative Marketing</h4>
-							</div>
-						</div>
-						<p>Lorem ipsum dolor sit amet, consectetur scing elit. Proin eget tortor risus. Donec rutrum congue leo eget malesuada porttitor volutpat.</p>
-					</div>
-				</div>
-				<div class="col-md-6 col-lg-4">
-					<div class="service-item">
-						<div class="service-name">
-							<div class="service-icon">
-								<i class="ion-ios-people"></i>
-							</div>
-							<div class="service-title">
-								<h4>Public Relations</h4>
-							</div>
-						</div>
-						<p>Lorem ipsum dolor sit amet, consectetur scing elit. Proin eget tortor risus. Donec rutrum congue leo eget malesuada porttitor volutpat.</p>
-					</div>
-				</div>
-				<div class="col-md-6 col-lg-4">
-					<div class="service-item">
-						<div class="service-name">
-							<div class="service-icon">
-								<i class="ion-android-color-palette"></i>
-							</div>
-							<div class="service-title">
-								<h4>Creative Design</h4>
-							</div>
-						</div>
-						<p>Lorem ipsum dolor sit amet, consectetur scing elit. Proin eget tortor risus. Donec rutrum congue leo eget malesuada porttitor volutpat.</p>
-					</div>
-				</div>
-				<div class="col-md-6 col-lg-4">
-					<div class="service-item">
-						<div class="service-name">
-							<div class="service-icon">
-								<i class="ion-ios-loop-strong"></i>
-							</div>
-							<div class="service-title">
-								<h4>Regular Update</h4>
-							</div>
-						</div>
-						<p>Lorem ipsum dolor sit amet, consectetur scing elit. Proin eget tortor risus. Donec rutrum congue leo eget malesuada porttitor volutpat.</p>
-					</div>
-				</div>
-				<div class="col-md-6 col-lg-4">
-					<div class="service-item">
-						<div class="service-name">
-							<div class="service-icon">
-								<i class="ion-android-call"></i>
-							</div>
-							<div class="service-title">
-								<h4>Premimum Support</h4>
-							</div>
-						</div>
-						<p>Lorem ipsum dolor sit amet, consectetur scing elit. Proin eget tortor risus. Donec rutrum congue leo eget malesuada porttitor volutpat.</p>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>-->
-	<!--<div class="call-to-action">
-		<div class="container">
-			<div class="row align-items-center">
-				<div class="col-lg-10 col-md-9">
-					<h2 class="call-to-action-content mb-4 mb-md-0">We Have Over <span>15 years of experience </span> you always get the best guidance</h2>
-				</div>
-				<div class="col-lg-2 col-md-3">
-					<div class="call-to-action-btn text-md-right text-center">
-						<a class="btn btn-h-white white" href="#">CONTACT US</a>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-	-->
+	
 
 	<!-- about us -->
-	<section id="about" class="about s-padding" id="about">
+	<section  class="about  s-padding" id="about" >
 		<div class="container">
 			<div class="row align-items-center">
-
+                 	<div class="section-title">
+					<h2>About Us</h2>
+					
+				</div>
+			</div>
+			<div class="row align-items-center">
 				<div class="col-lg-6">
 					<div class="about-img">
 						<img src="assets/images/aboutus.jpg" alt="">
 					</div>
 				</div>
 
-				<div class="col-lg-6">
+				<div class="col-lg-6 sm-device-padding">
 					<div class="about-details lg-md-0">
-						<h2 class="about-title">About Us</h2>
-						<p>We have started this voyage from very long with the fantasy to transform Top Virtual Employee into 700+ organization worldwide, with the worldwide customer base crosswise over five main lands and an extensive scope of services in the both sectors IT as well as Non-IT. We develop redid remote staffing services in diverse IT and Non-IT sectors for clients crosswise over 30+ nations, and would like to expand our aim worldwide regarding geographical space.</p>
+					
+						<p>We have started this intersection from long with the dream to change XYZ into a different relationship around the world, with the general customer base crosswise over in excess of five essential areas and a wide degree of organizations in the two regions IT and Non-IT. We make renovate remote staffing organizations in different IT and Non-IT regions for clients crosswise over in excess of 25+ nations and should need to develop our direct by and large with deference toward geographical space. </p>
 						<p>
-							Top Virtual Employee offers rich business chances to experts from a wide range of area including software and development, medical service, design, fund and accounting, engineering, law, sales and internet marketing.
+							XYZ offers rich business chances to masters from a broad assortment of locale including programming and improvement, restorative administrations, blueprint, store and accounting, building, law, arrangements and web and web advancing.
 						</p>
 						
 						<!--
@@ -318,7 +223,11 @@
 				<div class="col-lg-12">
 					<div class="about-details mt-5 lg-md-0">
 						
-						<p>We have started this voyage from very long with the fantasy to transform Top Virtual Employee into 700+ organization worldwide, with the worldwide customer base crosswise over five main lands and an extensive scope of services in the both sectors IT as well as Non-IT. We develop redid remote staffing services in diverse IT and Non-IT sectors for clients crosswise over 30+ nations, and would like to expand our aim worldwide regarding geographical space.</p>
+						<p>Our standard precept is to be a vital Indian player in outsourcing space, demonstrating the gifted and experienced Indian pros over different zone and activities. We appropriate the opportunity to partner and attract the abundant IT and Non-IT limit in India through supportive and basic openings-generation India the best outsourcing objective over the world. </p>
+
+						<p>
+							Our main motive is to develop the best class staffing platform and to design the creative and skilled Indian Workforce and make endless courses for them. Particularly outfitted with fundamental limits and capacities, Indian experts trademark potential can be beneficially utilized by made nations. We respect their legitimacy, duty, and expert’s enormity and love to make a route for their improvement in the general field.
+						</p>
 						
 					</div>
 				</div>
@@ -334,7 +243,7 @@
 			<div class="row">
 				<div class="section-title">
 					<h2>OUR SERVICES</h2>
-					<p>Top Virtual Employee cultivates imaginative reasoning and urges you to look for creative arrangements. Our representatives appreciate the opportunity to devise out-of-the-container systems in everyday work. We offer the whole major and in addition some specialty areas of ability in which you can make your profession.</p>
+					<p>At XYZ, our team members offer you an inventive thinking and convey to you the most creative plans. Our delegates appreciate the opportunity to plot out-of-the-container frameworks in ordinary work. We give the whole major and also some addition to capacity inside which you'll make your specialty.</p>
 				</div>
 				<div class="masonry-wrapper w-100 gutter-bottom-30">
 					<div class="grid-sizer col-lg-4 col-md-6"></div>
@@ -354,10 +263,10 @@
 								</div>
 								<h3 class="post-title mt-5">ENGINEERING</h3>
 								<div class="blog-post-content">
-									<p>Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Curabitur non nulla sit amet nisl tempus convallis quis.</p>
+									<p>XYZ integrate an expansive arrangement of overall associated with the engineering domain, on these lines making associate in Mechanical Engineering for outsourcing services like connected science, connected science Services, outline Engineering and Structural Engineering.</p>
 								</div>
 
-								<a href="#" class="btn" style="color: #fff;">Read More</a>
+								<a href="engineering.php" class="btn" style="color: #fff;">Read More</a>
 								
 							</div>
 						</article>
@@ -378,10 +287,10 @@
 								</div>
 								<h3 class="post-title mt-5">DATA ENTRY</h3>
 								<div class="blog-post-content">
-									<p>Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Curabitur non nulla sit amet nisl tempus convallis quis.</p>
+									<p>Our bundle of organizations comprises of the information segment, information change, information preparing, information mining, information catching OCR and ICR benefit, alongside capacity in different configurations.</p>
 								</div>
 
-								<a href="#" class="btn" style="color: #fff;">Read More</a>
+								<a href="data-entry.php" class="btn" style="color: #fff;">Read More</a>
 								
 							</div>
 						</article>
@@ -402,10 +311,10 @@
 								</div>
 								<h3 class="post-title mt-5">INTERNET MARKETING</h3>
 								<div class="blog-post-content">
-									<p>Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Curabitur non nulla sit amet nisl tempus convallis quis.</p>
+									<p>Our internet marketing method and consultancy organization incorporates Search Engine Optimization (SEO), Search Engine Marketing (SEM), Social Media Optimization (SEM), Social Media Marketing (SMM) etc.</p>
 								</div>
 
-								<a href="#" class="btn" style="color: #fff;">Read More</a>
+								<a href="internet-marketing.php" class="btn" style="color: #fff;">Read More</a>
 								
 							</div>
 						</article>
@@ -426,10 +335,10 @@
 								</div>
 								<h3 class="post-title mt-5">IT OUTSOURCING</h3>
 								<div class="blog-post-content">
-									<p>Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Curabitur non nulla sit amet nisl tempus convallis quis.</p>
+									<p>XYZ offers the best-class services to the associations all through the world in the field of programming and development in PHP, Java, Python, C++, DotNet, Flex, and VB.NET.</p>
 								</div>
 
-								<a href="#" class="btn" style="color: #fff;">Read More</a>
+								<a href="it-sourcing.php" class="btn" style="color: #fff;">Read More</a>
 								
 							</div>
 						</article>
@@ -442,7 +351,7 @@
 									<div class="container">
 										<div class="row">
 											<div class="col-md-12 text-center">
-												<img src="assets/images/engineering/img-1.png" alt="">
+												<img src="assets/images/graphics-design/img-1.png" alt="">
 											</div>
 										</div>
 									</div>
@@ -450,10 +359,10 @@
 								</div>
 								<h3 class="post-title mt-5">GRAPHICS AND WEB DESIGN</h3>
 								<div class="blog-post-content">
-									<p>Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Curabitur non nulla sit amet nisl tempus convallis quis.</p>
+									<p>Our realistic style and media administrations portfolio consolidates 	2D and 3D animation, 3D display and show, motion story writing, 		animation outline, item action, product activity, PC animation, and 	web animation.</p>
 								</div>
 
-								<a href="#" class="btn" style="color: #fff;">Read More</a>
+								<a href="graphics.php" class="btn" style="color: #fff;">Read More</a>
 								
 							</div>
 						</article>
@@ -466,7 +375,7 @@
 									<div class="container">
 										<div class="row">
 											<div class="col-md-12 text-center">
-												<img src="assets/images/blog2.jpg" alt="">
+												<img src="assets/images/content writing/img-1.png" alt="">
 											</div>
 										</div>
 									</div>
@@ -474,10 +383,10 @@
 								</div>
 								<h3 class="post-title mt-5">CONTENT WRITING</h3>
 								<div class="blog-post-content">
-									<p>Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Curabitur non nulla sit amet nisl tempus convallis quis.</p>
+									<p>Our content writing organizations provides content development services, for example, web diaries, articles, thing studies, eBooks, logical investigations, white papers etc.</p>
 								</div>
 
-								<a href="#" class="btn" style="color: #fff;">Read More</a>
+								<a href="content.php" class="btn" style="color: #fff;">Read More</a>
 								
 							</div>
 						</article>
@@ -489,455 +398,155 @@
 
 	<!--# Our Services-->
 
-	<section class="portfolio s-padding" id="portfolio">
-		<div class="container-fluid">
-			<div class="row">
-				<div class="section-title">
-					<h2>Our Recent Portfolio</h2>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, Vestibulum ante<br> primis in faucibus orci luctus et ultrices</p>
-				</div>
-				<div class="portfolio-wrapper w-100">
-					<div class="portfolio-filter-btn text-center">
-						<button data-filter="*" data-txt="Show all" class="active"><span>Show all</span></button>
-						<button data-filter=".design" data-txt="Design"><span>Design</span></button>
-						<button data-filter=".devlopment" data-txt="Devlopment"><span>Devlopment</span></button>
-						<button data-filter=".brand" data-txt="Brand"><span>Brand</span></button>
-						<button data-filter=".marketing" data-txt="Marketing"><span>Marketing</span></button>
-					</div>
-					<div class="portfolio-filter no-gutters">
-						<div class="portfolio-filter-item design col-lg-3 col-md-4 col-sm-6">
-							<div class="portfolio-item">
-								<a href="#portfolio-content-1" class="inline-popup">
-									<div class="portfolio-item-img">
-										<img src="assets/images/img6.jpg" alt="">
-									</div>
-									<div class="portfolio-item-content">
-										<div class="portfolio-item-content-inner">
-											<h4 class="portfolio-title">Creative Idea</h4>
-											<div class="portfolio-catagory">
-												<span>Design</span>,
-												<span>Brand</span>
-											</div>
-											<span class="portfolio-icon"><i class="ion-ios-plus-empty"></i></span>
-										</div>
-									</div>
-								</a>
-							</div>
-						</div>
-						<div class="portfolio-filter-item devlopment col-lg-3 col-md-4 col-sm-6">
-							<div class="portfolio-item">
-								<a href="#portfolio-content-1" class="inline-popup">
-									<div class="portfolio-item-img">
-										<img src="assets/images/img8.jpg" alt="">
-									</div>
-									<div class="portfolio-item-content">
-										<div class="portfolio-item-content-inner">
-											<h4 class="portfolio-title">Creative Idea</h4>
-											<div class="portfolio-catagory">
-												<span>Design</span>,
-												<span>Brand</span>
-											</div>
-											<span class="portfolio-icon"><i class="ion-ios-plus-empty"></i></span>
-										</div>
-									</div>
-								</a>
-							</div>
-						</div>
-						<div class="portfolio-filter-item brand col-lg-3 col-md-4 col-sm-6">
-							<div class="portfolio-item">
-								<a href="#portfolio-content-1" class="inline-popup">
-									<div class="portfolio-item-img">
-										<img src="assets/images/img10.jpg" alt="">
-									</div>
-									<div class="portfolio-item-content">
-										<div class="portfolio-item-content-inner">
-											<h4 class="portfolio-title">Creative Idea</h4>
-											<div class="portfolio-catagory">
-												<span>Design</span>,
-												<span>Brand</span>
-											</div>
-											<span class="portfolio-icon"><i class="ion-ios-plus-empty"></i></span>
-										</div>
-									</div>
-								</a>
-							</div>
-						</div>
-						<div class="portfolio-filter-item marketing col-lg-3 col-md-4 col-sm-6">
-							<div class="portfolio-item">
-								<a href="#portfolio-content-1" class="inline-popup">
-									<div class="portfolio-item-img">
-										<img src="assets/images/img9.jpg" alt="">
-									</div>
-									<div class="portfolio-item-content">
-										<div class="portfolio-item-content-inner">
-											<h4 class="portfolio-title">Creative Idea</h4>
-											<div class="portfolio-catagory">
-												<span>Design</span>,
-												<span>Brand</span>
-											</div>
-											<span class="portfolio-icon"><i class="ion-ios-plus-empty"></i></span>
-										</div>
-									</div>
-								</a>
-							</div>
-						</div>
-						<div class="portfolio-filter-item marketing col-lg-3 col-md-4 col-sm-6">
-							<div class="portfolio-item">
-								<a href="#portfolio-content-1" class="inline-popup">
-									<div class="portfolio-item-img">
-										<img src="assets/images/img11.jpg" alt="">
-									</div>
-									<div class="portfolio-item-content">
-										<div class="portfolio-item-content-inner">
-											<h4 class="portfolio-title">Creative Idea</h4>
-											<div class="portfolio-catagory">
-												<span>Design</span>,
-												<span>Brand</span>
-											</div>
-											<span class="portfolio-icon"><i class="ion-ios-plus-empty"></i></span>
-										</div>
-									</div>
-								</a>
-							</div>
-						</div>
-						<div class="portfolio-filter-item marketing col-lg-3 col-md-4 col-sm-6">
-							<div class="portfolio-item">
-								<a href="#portfolio-content-1" class="inline-popup">
-									<div class="portfolio-item-img">
-										<img src="assets/images/img12.jpg" alt="">
-									</div>
-									<div class="portfolio-item-content">
-										<div class="portfolio-item-content-inner">
-											<h4 class="portfolio-title">Creative Idea</h4>
-											<div class="portfolio-catagory">
-												<span>Design</span>,
-												<span>Brand</span>
-											</div>
-											<span class="portfolio-icon"><i class="ion-ios-plus-empty"></i></span>
-										</div>
-									</div>
-								</a>
-							</div>
-						</div>
-						<div class="portfolio-filter-item marketing col-lg-3 col-md-4 col-sm-6">
-							<div class="portfolio-item">
-								<a href="#portfolio-content-1" class="inline-popup">
-									<div class="portfolio-item-img">
-										<img src="assets/images/img6.jpg" alt="">
-									</div>
-									<div class="portfolio-item-content">
-										<div class="portfolio-item-content-inner">
-											<h4 class="portfolio-title">Creative Idea</h4>
-											<div class="portfolio-catagory">
-												<span>Design</span>,
-												<span>Brand</span>
-											</div>
-											<span class="portfolio-icon"><i class="ion-ios-plus-empty"></i></span>
-										</div>
-									</div>
-								</a>
-							</div>
-						</div>
-						<div class="portfolio-filter-item marketing col-lg-3 col-md-4 col-sm-6">
-							<div class="portfolio-item">
-								<a href="#portfolio-content-1" class="inline-popup">
-									<div class="portfolio-item-img">
-										<img src="assets/images/img6.jpg" alt="">
-									</div>
-									<div class="portfolio-item-content">
-										<div class="portfolio-item-content-inner">
-											<h4 class="portfolio-title">Creative Idea</h4>
-											<div class="portfolio-catagory">
-												<span>Design</span>,
-												<span>Brand</span>
-											</div>
-											<span class="portfolio-icon"><i class="ion-ios-plus-empty"></i></span>
-										</div>
-									</div>
-								</a>
-							</div>
+
+	<!-- Start Counter area -->
+		<div class="counter-area area-padding parallax-bg">
+		    <div class="container">
+		        <div class="row">
+				    <div class="col-md-12 ">
+						<div class="section-headline text-center">
+						    <h3 class="text-white text-center">OUR UNIVERSAL ATTENDANCE </h3>
+						    <p class="text-white text-center">XYZ has been giving committed virtual assistants in any field or profession to small and expansive business in more than 25 nations all over the world. Our business collaborates and their relationship all through the world based on a client basis.</p>
 						</div>
 					</div>
 				</div>
-				<div class="portfolio-item-popup">
-					<div id="portfolio-content-1" class="portfolio-quick-details">
-						<div class="row no-gutters">
-							<div class="col-md-6">
-								<div class="portfolio-quick-details-img ">
-									<img src="assets/images/img7.jpg" alt="">
-								</div>
-							</div>
-							<div class="col-md-6">
-								<div class="portfolio-quick-details-content">
-									<div class="title-area">
-										<h3 class="portfolio-title">Creative Project Design</h3>
-										<div class="portfolio-catagory">
-											<span>Design</span>,
-											<span>Brand</span>
-										</div>
-									</div>
-									<p>Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Vivamus suscipit tortor eget felis porttitor volutpat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec rutrum congue leo eget malesuada.</p>
-									<p>Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.</p>
-									<p>Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Cras ultricies ligula sed magna dictum porta. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus.</p>
-									<a class="btn" href="#">More Details</a>
-								</div>
-							</div>
-						</div>
-					</div>
+				<div class="row">
+					<div class="col-md-3 sm-device-padding">
+		            	<div class="">
+		            		<div class="">
+		            			<div class="text-center">
+		                            <span class="text-white" style="font-size: 40px;font-weight: 800;    padding: 15px 0px 20px;">1100 +</span>
+		                            <h5 style="color: #fff;font-size: 16px;font-weight: 600;text-transform: uppercase;">HAPPY CLIENTS</h5>
+                          		</div>
+                           	</div>
+		            	</div>
+		            </div>
+
+		            <div class="col-md-3 sm-device-padding">
+		            	<div class="" >
+		            		<div class="">
+		            			<div class="text-center">
+		                            <span class=" text-white" style="font-size: 40px;font-weight: 800;    padding: 15px 0px 20px;">1400</span>
+                                    <h5 style="color: #fff;font-size: 16px;font-weight: 600;text-transform: uppercase;">Projects</h5>
+                          		</div>
+                           	</div>
+		            	</div>
+		            </div>
+
+		            <div class="col-md-3 sm-device-padding">
+		            	<div class="">
+		            		<div class="">
+		            			<div class="text-center">
+		                            <span class="text-white" style="font-size: 40px;font-weight: 800;    padding: 15px 0px 20px;">700</span>
+	                                 <h5 style="color: #fff;font-size: 16px;font-weight: 600;text-transform: uppercase;">UI Engineers</h5>
+                          		</div>
+                           	</div>
+		            	</div>
+		            </div>
+
+		            <div class="col-md-3 sm-device-padding">
+		            	<div class="">
+		            		<div class="">
+		            			<div class="text-center">
+		                            <span class="text-white" style="font-size: 40px;font-weight: 800;    padding: 15px 0px 20px;">59 +</span>
+                                    <h5 style="color: #fff;font-size: 16px;font-weight: 600;text-transform: uppercase;">Awards</h5>
+                          		</div>
+                           	</div>
+		            	</div>
+		            </div>
 				</div>
-			</div>
+		            
+		                <!--<div class="about-count">
+                           <div class="fun-content">
+                                <div class="fun_text">
+                                    <span class="counter">1100</span>
+                                    <h5>HAPPY CLIENTS</h5>
+                                </div>
+                                
+                                <div class="fun_text">
+                                    <span class="counter">1400</span>
+                                    <h5>Projects</h5>
+                                </div>
+                                
+                                <div class="fun_text">
+	                                    <span class="counter">700</span>
+	                                    <h5>UI Engineers</h5>
+                                </div>
+                                
+                                <div class="fun_text">
+                                    <span class="counter">59</span>
+                                    <h5>Awards</h5>
+                                </div>
+                            </div>
+                        </div>-->
+		            </div>
+		        </div>
+		    </div>
 		</div>
-	</section>
-	<section class="counter">
-		<div class="d-flex counter-item-wrapper">
-			<div class="counter-item c-bg-1">
-				<div class="counter-content">
-					<div class="counter-content-inner">
-						<span>No</span><span class="count">10</span>
-						<h4>Global Ranking</h4>
-					</div>
-				</div>
-			</div>
-			<div class="counter-item c-bg-2">
-				<div class="counter-content">
-					<div class="counter-content-inner">
-						<span class="count">1200</span><span>+</span>
-						<h4>Employees</h4>
-					</div>
-				</div>
-			</div>
-			<div class="counter-item c-bg-3">
-				<div class="counter-content">
-					<div class="counter-content-inner">
-						<span class="count">120</span>
-						<h4>Subsidiaries</h4>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-	<section class="pricing s-padding bg-secondry">
-		<div class="container">
-			<div class="row no-gutters">
-				<div class="section-title">
-					<h2>Our Pricing</h2>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, Vestibulum ante<br> primis in faucibus orci luctus et ultrices</p>
-				</div>
-				<div class="col-lg-4 col-md-6">
-					<div class="pricing-item">
-						<div class="pricing-head">
-							<h2 class="title">Basic</h2>
-							<h4>Monthly Plan</h4>
-						</div>
-						<div class="pricing-body">
-							<div class="price"><span>$</span>69</div>
-							<ul class="pricing-details">
-								<li>20 Praesent sapien</li>
-								<li>Donec rutrum congue leo</li>
-								<li>-</li>
-								<li>5 Vestibulum</li>
-								<li>-</li>
-								<li>Vivamus magna justo</li>
-							</ul>
-						</div>
-						<div class="pricing-footer">
-							<a class="btn" href="#">get started</a>
-						</div>
-					</div>
-				</div>
-				<div class="col-lg-4 col-md-6">
-					<div class="pricing-item featured">
-						<div class="pricing-head">
-							<h2 class="title">STANDARD</h2>
-							<h4>Monthly Plan</h4>
-						</div>
-						<div class="pricing-body">
-							<div class="price"><span>$</span>119</div>
-							<ul class="pricing-details">
-								<li>20 Praesent sapien</li>
-								<li>Donec rutrum congue leo</li>
-								<li>Curabitur</li>
-								<li>5 Vestibulum</li>
-								<li>-</li>
-								<li>Vivamus magna justo</li>
-							</ul>
-						</div>
-						<div class="pricing-footer">
-							<a class="btn" href="#">get started</a>
-						</div>
-					</div>
-				</div>
-				<div class="col-lg-4 col-md-6">
-					<div class="pricing-item">
-						<div class="pricing-head">
-							<h2 class="title">PROFESIONAL</h2>
-							<h4>Monthly Plan</h4>
-						</div>
-						<div class="pricing-body">
-							<div class="price"><span>$</span>199</div>
-							<ul class="pricing-details">
-								<li>20 Praesent sapien</li>
-								<li>Donec rutrum congue leo</li>
-								<li>Curabitur</li>
-								<li>5 Vestibulum</li>
-								<li>Sollicitudin</li>
-								<li>Vivamus magna justo</li>
-							</ul>
-						</div>
-						<div class="pricing-footer">
-							<a class="btn" href="#">get started</a>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-	<section class="testimonials s-padding">
-		<div class="container">
-			<div class="row">
-				<div class="swiper-container testimonial-slide">
-		    		<div class="swiper-wrapper">
-		    			<div class="swiper-slide">
-		    				<div class="testimonial-item">
-		    					<div class="testimonial-image-area">
-		    						<div class="testimonial-img">
-		    							<img src="assets/images/author.jpg" alt="">
-		    						</div>
-		    					</div>
-		    					<div class="testimonial-content">
-		    						<p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Cras ultricies ligula sed magna dictum porta.</p>
-		    						<div class="reviewer-name">Albert Morales <span>- CEO CreativeAgency</span></div>
-		    					</div>
-		    				</div>
-		    			</div>
-		    			<div class="swiper-slide">
-		    				<div class="testimonial-item">
-		    					<div class="testimonial-image-area">
-		    						<div class="testimonial-img">
-		    							<img src="assets/images/author.jpg" alt="">
-		    						</div>
-		    					</div>
-		    					<div class="testimonial-content">
-		    						<p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Cras ultricies ligula sed magna dictum porta.</p>
-		    						<div class="reviewer-name">Albert Morales <span>- CEO CreativeAgency</span></div>
-		    					</div>
-		    				</div>
-		    			</div>
-		    		</div>
-		    		<div class="swiper-button-prev"><i class="ion-ios-arrow-left"></i></div>
-		    		<div class="swiper-button-next"><i class="ion-ios-arrow-right"></i></div>
-		    	</div>
-			</div>
-		</div>
-	</section>
-	<section class="team s-padding bg-secondry">
-		<div class="container-fluid">
-			<div class="row justify-content-center no-gutters text-center">
-				<div class="section-title">
-					<h2>Our Team</h2>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, Vestibulum ante<br> primis in faucibus orci luctus et ultrices</p>
-				</div>
-				<div class="col-md-3 col-sm-6">
-					<div class="team-member">
-						<div class="team-member-img">
-							<img src="assets/images/team1.jpg" alt="">
-						</div>
-						<div class="team-member-details">
-							<h3 class="name">Lizzie Walker</h3>
-							<span class="desig">CEO</span>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-3 col-sm-6">
-					<div class="team-member">
-						<div class="team-member-img">
-							<img src="assets/images/team3.jpg" alt="">
-						</div>
-						<div class="team-member-details">
-							<h3 class="name">Larry Oneal</h3>
-							<span class="desig">PR Director</span>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-3 col-sm-6">
-					<div class="team-member">
-						<div class="team-member-img">
-							<img src="assets/images/team4.jpg" alt="">
-						</div>
-						<div class="team-member-details">
-							<h3 class="name">Ryan Wong</h3>
-							<span class="desig">Project Manager</span>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-3 col-sm-6">
-					<div class="team-member">
-						<div class="team-member-img">
-							<img src="assets/images/team2.jpg" alt="">
-						</div>
-						<div class="team-member-details">
-							<h3 class="name">Dennis Fisher</h3>
-							<span class="desig">Managing Director</span>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-	
+
+
+
 	<section class="contact s-padding  bg-secondry" id="contact">
 		<div class="container">
 			<div class="row">
 				<div class="section-title">
 					<h2>Get In Touch</h2>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, Vestibulum ante<br> primis in faucibus orci luctus et ultrices</p>
 				</div>
 				<div class="col-lg-6">
                    <form id="contactform" class="contactform default mb-5 mb-lg-0">
-                       	<div class="form-group">
-                       		<input type="text" placeholder="Name*" class="form-control" id="name">
+                       	<div class="row">
+                       		<div class="col-md-6">
+                       			<div class="form-group">
+                       				<input type="text" placeholder="Name*" class="form-control" id="name">
+                       			</div>
+                       		</div>
+                       		<div class="col-md-6">
+                       			<div class="form-group">
+                       				<input type="text" placeholder="Phone*" class="form-control" id="number">
+                       			</div>
+                       		</div>
                        	</div>
-                       	<div class="form-group">
-                       		<input type="text" placeholder="Subject*" class="form-control" id="subject">
-                       	</div>
+                       	
+                       	
                        	<div class="form-group">
                        		<input type="email" placeholder="Email*" class="form-control" id="email">
                        	</div>
                        	<div class="form-group">
-                       		<textarea id="message" placeholder="Message..." class="form-control" rows="12"></textarea>
+                       		<textarea id="address" placeholder="Address" class="form-control" rows="3"></textarea>
                        	</div>
-                       	<div class="form-submit-btn">
+                       	<div class="form-group">
+                       		<textarea id="message" placeholder="Message..." class="form-control" rows="5"></textarea>
+                       	</div>
+                       	<div class="form-submit-btn text-center">
                        		<button class="btn" type="submit" id="form-submit">SEND MESSAGE</button>
                        	</div>
                    </form>
 				</div>
 				<div class="col-lg-6">
 					<div class="row">
-						<div class="col-md-4  mb-4">
+						<div class="col-md-12 mt-5 mb-4">
 							<div class="contact-item">
 								<i class="ion-iphone"></i>
 								<h4>Phone</h4>
-								<span>+1-202-555-0102</span>
-								<span>+1-704-617-8131</span>
+								<span>+x-xxx-xxx-xxxx</span>
 							</div>
 						</div>
-						<div class="col-md-4  mb-4">
+						<div class="col-md-12 mb-4">
 							<div class="contact-item">
 								<i class="ion-email"></i>
 								<h4>E-mail</h4>
-								<span>support@ourmail.com</span>
-								<span>query@ourmail.com</span>
+								<span>conatct@domain.com</span>
 							</div>
 						</div>
-						<div class="col-md-4  mb-4">
+						<div class="col-md-12 mb-4">
 							<div class="contact-item">
 								<i class="ion-ios-location"></i>
 								<h4>Address</h4>
-								<span>198 Snyder Avenue Matthews, NC 28105</span>
+								<span>000 xyz Avenue xyz, yy 00000</span>
 							</div>
 						</div>
 					</div>
-					<div id="map" class="size-1"></div>
+					
 				</div>
 			</div>
 		</div>

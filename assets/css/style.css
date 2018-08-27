@@ -71,13 +71,14 @@ ol, ul{
 
 /*------------------------------ Global CSS --------------------------------*/
 .s-padding{
-	padding: 100px 0;
+	padding-top: 130px;
+	padding-bottom:50px;
 }
 
 .section-title{
 	overflow: hidden;
 	text-align: center;
-	margin-bottom: 80px;
+	margin-bottom: 15px;
 	width: 100%;
 }
 
@@ -89,8 +90,8 @@ ol, ul{
 	text-transform: uppercase;
 	font-size: 32px;
 	font-weight: 400;
-	margin-bottom: 25px;
-	padding-bottom: 25px;
+	    margin-bottom: 15px;
+    padding-bottom: 15px;
 	position: relative;
 }
 
@@ -943,7 +944,7 @@ ol, ul{
 
 /*------------------------------ Counter Style --------------------------------*/
 .counter {
-	overflow: hidden;
+	/*overflow: hidden;*/
 }
 
 .counter .row.no-gutters{
@@ -1306,6 +1307,7 @@ ol, ul{
     color: #3c3e3f;
     transition: .15s ease-in-out;
     display: block;
+    text-align: center;
 }
 
 .blog-post-des .post-title a{
@@ -1432,6 +1434,7 @@ ol, ul{
 	font-size: 20px;
 	font-weight: 600;
 	color: #111111;
+	text-align: center;
 
 }
 
@@ -1459,6 +1462,7 @@ ol, ul{
 	text-transform: uppercase;
 	font-size: 18px;
 	margin-bottom: 0;
+	color: #fff;
 }
 
 .footer-title{
@@ -1612,3 +1616,190 @@ ol, ul{
 .f-w-list li a:hover{
 	color: #1490d6;
 }
+
+/*usefull links page*/
+
+.promo-parallax {
+    background-size: cover;
+    z-index: 1;
+    position: relative;
+    height: 30vh;
+}
+
+.breadcrumb-wrap {
+    padding: 113px 0 16px;
+    text-align: center;
+}
+
+.page-title {
+    font-size: 35px;
+    margin: 0;
+    text-transform: capitalize;
+    color: #f8f9fa;
+    font-weight:bolder;
+    text-align: center;
+    padding:43px;
+}
+
+.main-content {
+    padding: 70px 0 30px;
+}
+
+.b-item-detail h2,h3,h4{
+    color: #24282e;
+    font-family: Rubik-Medium;
+    margin: 0 0 15px;
+    line-height: 1;
+    font-size: 30px;
+    text-align: left;
+    font-weight: bolder;
+}
+
+.b-item-detail h3 {
+   
+    font-size: 22px;
+    
+}
+
+.b-item-detail h4 {
+   
+    font-size: 18px;
+    
+}
+
+.b-item-detail h4 {
+   
+    font-size: 16px;
+    
+}
+
+
+.blog-single-field {
+    padding: 120px 0 70px;
+
+}
+
+.blog-single-col h2
+{
+  font-size: 28px;
+  color: #424242;
+  font-weight: bold;
+  font-family: Rubik-Medium;
+}
+
+.blog-single-col h3 {
+    margin: 15px 0;
+    font-size: 22px;
+}
+
+
+/*# usefull links*/
+
+
+
+/*services pages*/
+
+.breadcrumb ul li {
+    display: inline-block;
+    color: #fff;
+    padding: 0px 10px 0px 20px;
+    position: relative;
+    font-size: 16px;
+}
+
+/*# services pages*/
+
+/*counter*/
+.counter-area {
+    position: relative;
+    width: 100%;
+    height: auto;
+}
+
+.counter-area {
+    background-color: #000000;
+}
+
+.area-padding {
+    padding-top: 76px;
+    padding-bottom: 30px;
+}
+
+.section-headline {
+    margin-bottom: 60px;
+    position: relative;
+}
+
+.section-headline h3 {
+    display: inline-block;
+    font-size: 30px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.text-white {
+    color: #fff !important;
+}
+
+.section-headline p {
+    max-width: 950px;
+    font-size: 16px;
+    letter-spacing: 0.5px;
+    margin: 0 auto;
+    line-height: 26px;
+}
+
+.fun-content {
+    overflow: hidden;
+    margin-top: 15px;
+    display: block;
+}
+
+.fun_text {
+    float: left;
+    
+    text-align: center;
+}
+
+.fun_text span {
+    color: #fff;
+    display: block;
+    font-size: 40px;
+    padding: 15px 0px 20px;
+    font-weight: 800;
+    line-height: 40px;
+}
+
+.fun_text span:after {
+    content: "+";
+}
+
+.fun_text > h5 {
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+/*# counter*/
+
+@media (max-width: 768px)
+    {
+        .theme-bg-overlay .pd-top
+        {
+            padding-top: 50px;
+        }
+
+        .row .sm-device-padding
+        {
+            padding-top: 30px;
+        }
+    }
+
+    @media (max-width: 768px)
+    {
+        
+        .row .center-text
+        {
+            text-align: center;
+        }
+    }
