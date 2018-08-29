@@ -492,7 +492,7 @@
 				<div class="section-title">
 					<h2>Get In Touch</h2>
 				</div>
-				<div class="col-lg-6">
+				<div class="col-lg-7">
                    <form id="contactform" class="contactform default mb-5 mb-lg-0">
                        	<div class="row">
                        		<div class="col-md-6">
@@ -522,13 +522,13 @@
                        	</div>
                    </form>
 				</div>
-				<div class="col-lg-6">
+				<div class="col-lg-5">
 					<div class="row">
 						<div class="col-md-12 mt-5 mb-4">
 							<div class="contact-item">
 								<i class="ion-iphone"></i>
 								<h4>Phone</h4>
-								<span>+x-xxx-xxx-xxxx</span>
+								<a href="tel: +x-xxx-xxx-xxxx"><span>+x-xxx-xxx-xxxx</span></a>
 							</div>
 						</div>
 						<div class="col-md-12 mb-4">

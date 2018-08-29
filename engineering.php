@@ -25,7 +25,7 @@
 			<div class="row">
 				<div class="col-md-6">
 					<div class="img-wrap">
-						<img src="services/engineering/img-1.png" class="img-fluid">
+						<img src="services/engineering/img-2.jpg" class="img-fluid">
 					</div>
 				</div>
 				<div class="col-md-6">
